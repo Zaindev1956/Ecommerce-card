@@ -1,0 +1,174 @@
+.full{
+    width: 1250px;
+    height: 570px;
+    background-color: #F7DFCD;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main{
+    width: 950px;
+    height: 550px;
+    border: 1px solid rgba(36, 32, 27, 0);
+    display: flex;
+}
+.first{
+    width: 475px;
+    height: 550px;
+   background-image: linear-gradient(  #CB9169 ,#CA8C77);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+    
+  
+}
+.pic{
+    width: 303px;
+    height: 450px;
+    align-items: center;
+    
+
+
+
+}
+.sec{
+    width: 475px;
+    height: 550px;
+    background-color: #FAEDE5;
+    position: relative;
+   
+}
+.cross{
+    position: absolute;
+    left: 428px;
+    top: 32px;
+    color: #98908d;
+}
+.product{
+    position: absolute;
+    left: 50px;
+    top: 30px;
+    font-size: 14px;
+    color: #5e5b5a;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.sen{
+    position: absolute;
+    left: 50px;
+    top: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #cf732d;
+    font-size: 30px;
+
+}
+.pic1{
+    position: absolute;
+    left: 250px;
+    margin-top: 5px;
+}
+
+.p1{
+  position: absolute;
+    height: 60px;
+    width: 320px;
+    border: 1px solid rgba(96, 84, 84, 0.075);
+    top: 130px;
+    left: 50px;
+display: flex;
+align-items: center;
+font-size: 13px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: #98908d;
+
+}
+.addres{
+    width: 320px;
+    height: 110px;
+    border: 1px solid rgba(96, 84, 84, 0.075);
+    position: absolute;
+    top: 204px;
+    left: 50px;
+    font-size: 12px;
+    display: flex;
+   gap: 50px;
+   
+}
+.bill{
+    color: #5c5857;
+}
+.bill h4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+
+}
+.bill p{
+   margin-top: -8px;
+}
+
+
+.ship p{
+   margin-top: -8px;
+    color: #5c5857;
+}
+.ship h4{
+    color: #5c5857;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.price{
+    position: absolute;
+    top:315px ;
+    width: 320px;
+    height: 70px;
+    left: 50px;
+    border: 1px solid rgba(96, 84, 84, 0.075);
+   
+   
+}
+
+.p4{
+    font-size: 13px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;    color: #5c5857;
+}
+.p5{
+    font-size: 24px;
+    color: #cf732d;
+    margin-top: -12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.pay{
+position: absolute;
+top: 400px;
+left: 50px;
+font-size: 13px;
+font-family: Arial, Helvetica, sans-serif;
+gap: 20px;
+color: #5e5b5a;
+}
+.p7{
+   
+    height: 17px;
+    width: 17px;
+    color: #F7DFCD;
+
+
+  
+}
+.p8{
+    margin-top: -18px;
+    margin-left: 40px;
+    font-size: 12px;
+
+}
+.paypal{
+    position: absolute;
+    top: 12px;
+    left: 40px;
+}
+.card{
+    position: absolute;
+    top: 30px;
+    left: 180px;
+}
